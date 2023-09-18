@@ -1,4 +1,4 @@
-<h1 align="center">Dacon_study<br></h1>
+<h1 align="center">Dacon study<br></h1>
 
 <h2>📚 Participation</h2>
 
